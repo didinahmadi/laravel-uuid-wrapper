@@ -1,7 +1,10 @@
 {
     "name": "didinahmadi/laravel-uuid-wrapper",
-    "description": "Helper to wrap uuid ability to be injected at eloquent model",
+    "description": "UUID Wrapper for laravel",
     "type": "library",
+    "require": {
+        "webpatser/laravel-uuid": "^3.0"
+    },
     "authors": [
         {
             "name": "Didin Ahmadi",
